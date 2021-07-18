@@ -1,11 +1,17 @@
 # How much food does the birds coming to my window eat?
 
 
-Birds comming everyday to my window, there are beautiful, funny and interesting. So, I put fruit all  days and I wanted to register the weingh in order to find How much food does the birds coming to my window eat.
+Birds coming every day to my window, there are beautiful, funny and interesting. I put fruit all days and I wanted to register the fruit weigh in order to obtain how much food does the birds coming to my window eat.
+
+In the last five months I have feed to the birds with a total 24212 g fruit in my window, which their distribution can be show in the follow pie chart:
 
 ![Piechart](https://github.com/tangaritas/birds_food/blob/main/dataviz/pieChart_with_title.png)
 
+Birds have been eaten in five months 17524 g plantain, 3931 g banana, 1660 g papaya and 1097 g orange.  
+
 ![BarChar](https://github.com/tangaritas/birds_food/blob/main/dataviz/bar_chart.png)
+
+
 
 ### Species cooming to my window
 
