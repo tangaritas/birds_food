@@ -4,22 +4,17 @@ How much food does the birds coming to my window eat?
 
 
 ### Species cooming to my window
-|#  |Nombre científico	|Common name|
+|#  |Scientific name	|Common name|
 |---|-------------------|-----------|
 |1  |Coereba flaveola	  |Bananaquit |
-  
-
-  
-1		Mielero	
-2	Euphonia laniirostris	Eufonia piquigruesa	Thick-billed euphonia
-3	Icterus nigrogularis	Turpial amarillo	Yellow oriole
-4	Melanerpes rubricapillus	Carpintero habado	Red-crowned woodpecker
-5	Pitangus sulphuratus	Bichofué gritón	Great kiskadee
-6	Stilpnia vitriolina	Tangara rastrojera / Tangara matorralera	Scrub tanager
-7	Thraupis episcopus	Tangara Azuleja / Azulejo	Blue-gray tanager
-8	Thraupis palmarum	Tangara palmera / Azulejo palmero	Palm tanager
-9	Turdus ignobilis	Mirla ollera / Zorzal Piquinegro	Black-billed thrush
-
+|2  |Euphonia laniirostris |Thick-billed euphonia |
+|3  |Icterus nigrogularis|Yellow oriole |
+|4  |Melanerpes rubricapillus	  |Red-crowned woodpecker |
+|5  |Pitangus sulphuratus	  |Great kiskadee |
+|6  |Stilpnia vitriolina	  |Scrub tanager |
+|7  |Thraupis episcopus	  |Blue-gray tanager |
+|8  |Thraupis palmarum	  |Palm tanager |
+|9  |Turdus ignobilis	  |Black-billed thrush |
 
 
 ### External links
@@ -30,4 +25,4 @@ How much food does the birds coming to my window eat?
 
 * [Data in Google](https://docs.google.com/spreadsheets/d/1dENiPTJtdqOiU9Oiwxen2UU2K4HP1jOR_MyGcjQP81k/edit?usp=sharing)
 
-* [Post in spanish](http://tangaritas.com/que-tanto-comen-las-aves-que-llegan-a-mi-ventana/)
+* [Post in Spanish](http://tangaritas.com/que-tanto-comen-las-aves-que-llegan-a-mi-ventana/)
