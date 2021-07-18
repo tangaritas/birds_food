@@ -1,8 +1,7 @@
-# birds_food
+# How much food does the birds coming to my window eat?
 
-How much food does the birds coming to my window eat?
 
-### E
+Birds comming everyday to my window, there are beautiful, funny and interesting. So, I put fruit all  days and I wanted to register the weingh in order to find How much food does the birds coming to my window eat.
 
 ![Piechart](https://github.com/tangaritas/birds_food/blob/main/dataviz/pieChart_with_title.png)
 
