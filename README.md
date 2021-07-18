@@ -1,9 +1,15 @@
 # birds_food
+
 How much food does the birds coming to my window eat?
 
+### E
 
+![Piechart](https://github.com/tangaritas/birds_food/blob/main/dataviz/pieChart_with_title.png)
+
+![BarChar](https://github.com/tangaritas/birds_food/blob/main/dataviz/bar_chart.png)
 
 ### Species cooming to my window
+
 |#  |Scientific name	|Common name|
 |---|-------------------|-----------|
 |1  |Coereba flaveola	  |Bananaquit |
@@ -19,9 +25,7 @@ How much food does the birds coming to my window eat?
 
 ### External links
 
-
 * [Notebook in Deepnote](https://deepnote.com/project/birdsfood-ShCjrq8uTe2TY712XMHr0w/%2Fnotebook.ipynb)
-
 
 * [Data in Google](https://docs.google.com/spreadsheets/d/1dENiPTJtdqOiU9Oiwxen2UU2K4HP1jOR_MyGcjQP81k/edit?usp=sharing)
 
