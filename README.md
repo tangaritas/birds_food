@@ -11,6 +11,10 @@ Birds have been eaten in five months 17524 g plantain, 3931 g banana, 1660 g pap
 
 ![BarChar](https://github.com/tangaritas/birds_food/blob/main/dataviz/bar_chart.png)
 
+fdfd
+
+![Scatterplot](https://github.com/tangaritas/birds_food/blob/main/dataviz/point_chart.png)
+
 
 
 ### Species cooming to my window
