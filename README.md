@@ -11,7 +11,11 @@ Birds have been eaten in five months 17524 g plantain, 3931 g banana, 1660 g pap
 
 ![BarChar](https://github.com/tangaritas/birds_food/blob/main/dataviz/bar_chart.png)
 
-fdfd
+Orange is the most expensive fruit I put in my window, fortunately, birds don't like it much 😅.  
+
+Papaya is the cheapest fruit, and birds love it but is a source of disorder and residues in my window 😱 and, my neighbors' windows 🙈(I live in the fifth floor).  
+
+Banana and Plantain are similar in cost, and are their favorite fruit. However, in my neighboorhood is most common to find good ripe plantains and their can be storage for more time than bananas, so I decide plantain is the best option for my neighbors' birds. 🍌🍌🍌
 
 ![Scatterplot](https://github.com/tangaritas/birds_food/blob/main/dataviz/point_chart.png)
 
